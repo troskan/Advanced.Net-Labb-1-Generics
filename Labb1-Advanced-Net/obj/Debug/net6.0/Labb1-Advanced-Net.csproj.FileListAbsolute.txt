@@ -1,0 +1,15 @@
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.csproj.AssemblyReference.cache
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.AssemblyInfoInputs.cache
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.AssemblyInfo.cs
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\bin\Debug\net6.0\Labb1-Advanced-Net.exe
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\bin\Debug\net6.0\Labb1-Advanced-Net.deps.json
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\bin\Debug\net6.0\Labb1-Advanced-Net.runtimeconfig.json
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\bin\Debug\net6.0\Labb1-Advanced-Net.dll
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\bin\Debug\net6.0\Labb1-Advanced-Net.pdb
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.dll
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\refint\Labb1-Advanced-Net.dll
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.pdb
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\Labb1-Advanced-Net.genruntimeconfig.cache
+C:\Users\Alvin\source\repos\Labb1-Advanced-Net\Labb1-Advanced-Net\obj\Debug\net6.0\ref\Labb1-Advanced-Net.dll
